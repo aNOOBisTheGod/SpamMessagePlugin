@@ -134,7 +134,7 @@ module.exports = class {
 			text += '\n';
 		});
 
-		if (!text.startsWith('/s')) {
+		if (!text.startsWith('/ss')) {
 			return;
 		};
 
